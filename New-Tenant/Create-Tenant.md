@@ -14,7 +14,7 @@ Telephone number has to be correct!
 
 <img src="img/New-Tenant-3.png" width="600"/>
 
-After completion you will be offered an Azure Free Account - Don't use it!
+After completion you will be offered an Azure Free Account!
 
 <!--img src="img/New-Tenant-4.png" width="600"/-->
 
